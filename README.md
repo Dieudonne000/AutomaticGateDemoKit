@@ -50,7 +50,7 @@ This project implements an automatic gate control system using Arduino, featurin
 ## Installation
 
 1. Connect the hardware components according to the pin connections table
-2. Upload the `Gate.ino` sketch to your Arduino board
+2. Upload the `Automatic_Gate_Control.ino` sketch to your Arduino board
 3. Power on the system
 
 ## Customization
@@ -66,7 +66,3 @@ You can modify the following constants in the code to adjust the system's behavi
 
 **Author:** MUNEZA Jean Dieudonne  
 **Contact:** munezadieudonne2021@gmail.com
-
-## License
-
-This project is open source and available under the MIT License.
