@@ -12,7 +12,7 @@ const int buzzerPin = 12;    // Buzzer pin
 
 // Constants
 const float thresholdDistance = 10.0;  // Detection distance in cm
-const int closedAngle = 6;             // Servo angle when barrier is closed
+const int closedAngle = 0;             // Servo angle when barrier is closed
 const int openAngle = 90;              // Servo angle when barrier is open
 const unsigned long closeDelay = 5000; // 5 seconds delay before closing
 
